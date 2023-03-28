@@ -3,7 +3,7 @@
 
 Simple PHP library for talking to Google's Translate API for free.
 
-Eliminates IP request limitations
+
 
 ## Installation
 
