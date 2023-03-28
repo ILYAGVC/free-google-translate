@@ -1,6 +1,5 @@
+
 # free-google-translate
-Free google translate library for php
-# PHP GoogleTranslate free [![Build Status](https://travis-ci.org/statickidz/php-google-translate-free.svg?branch=master)](https://travis-ci.org/statickidz/php-google-translate-free)
 
 Simple PHP library for talking to Google's Translate API for free.
 
