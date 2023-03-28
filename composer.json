@@ -1,0 +1,14 @@
+{
+    "name": "ILYAGVC/free-google-translate",
+    "description": "Free google translate library for php",
+    "type": "library",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Ilya",
+            "email": "email@ilyagvc.online"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
